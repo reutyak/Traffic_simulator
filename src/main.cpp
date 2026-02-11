@@ -2,6 +2,6 @@
 
 int main() 
 {
-    std::cout << "Hello 3DConnect!" << std::endl;
+    std::cout << "Hello Traffic Simulator!" << std::endl;
     return 0;
 }
